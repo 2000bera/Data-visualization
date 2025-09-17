@@ -35,5 +35,5 @@ Featured Dashboards:
 
 - Helps identify pay gaps and workforce structure.
 
-# Challenges
+# <img width="26" height="26" alt="image" src="https://github.com/user-attachments/assets/70b98ba1-fbee-46b4-864d-4447febb7cdc" /> Challenges
 
