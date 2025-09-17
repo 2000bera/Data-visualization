@@ -1,4 +1,4 @@
-# Data Visualization Portfolio
+# 📟 Data Visualization Portfolio
 #  GitHub Repository
 
 Project Repo: Data-Visualization
