@@ -1,4 +1,4 @@
-# 📟 Data Visualization Portfolio
+# <img width="26" height="26" alt="image" src="https://github.com/user-attachments/assets/8dd6acde-995b-4a13-a40a-dd0dcea3aac6" /> Data Visualization Portfolio
 #  GitHub Repository
 
 Project Repo: Data-Visualization
