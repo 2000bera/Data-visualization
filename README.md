@@ -11,26 +11,29 @@ Profile: Layola Bera – https://public.tableau.com/app/profile/layola.bera/vizz
 
 Featured Dashboards:
 
-Social Media Activeness
+1. Social Media Activeness
 
-Visualizes social media usage patterns, frequency, and engagement trends.
+- Visualizes social media usage patterns, frequency, and engagement trends.
 
-Includes comparisons across platforms and user activity levels.
+- Includes comparisons across platforms and user activity levels.
 
-Country Data
+2. Country Data
 
-Compares countries on multiple metrics (population, GDP, area, etc.).
+- Compares countries on multiple metrics (population, GDP, area, etc.).
 
-Provides interactive filters for deeper exploration.
+- Provides interactive filters for deeper exploration.
 
-Tech Company Data
+3. Tech Company Data
 
-Displays job positions, departments, and workforce distribution.
+- Displays job positions, departments, and workforce distribution.
 
-Useful for analyzing employee trends and HR insights.
+- Useful for analyzing employee trends and HR insights.
 
-Employee Data
+4. Employee Data
 
-Salary distribution across positions and departments.
+- Salary distribution across positions and departments.
 
-Helps identify pay gaps and workforce structure.
+- Helps identify pay gaps and workforce structure.
+
+# Challenges
+
