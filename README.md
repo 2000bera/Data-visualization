@@ -45,5 +45,5 @@ Featured Dashboards:
 <img width="376" height="549" alt="Salary For Department" src="https://github.com/user-attachments/assets/0e071f9b-378b-4bef-9e03-e2ab4760dd33" />
 
 # <img width="26" height="26" alt="image" src="https://github.com/user-attachments/assets/70b98ba1-fbee-46b4-864d-4447febb7cdc" /> Challenges
-- Working with large data/big data
+- Working with large data/big data, which I learned from it
 - Pick the right visualization
