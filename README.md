@@ -17,6 +17,9 @@ Featured Dashboards:
 
 - Includes comparisons across platforms and user activity levels.
 
+  <img width="1219" height="559" alt="Dashboard 1" src="https://github.com/user-attachments/assets/3a6889ad-dd0e-42de-a6e0-a28b8493ea37" />
+
+
 2. Country Data
 
 - Compares countries on multiple metrics (population, GDP, area, etc.).
