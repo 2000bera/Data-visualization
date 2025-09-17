@@ -26,17 +26,24 @@ Featured Dashboards:
 
 - Provides interactive filters for deeper exploration.
 
+  <img width="1304" height="536" alt="Country Data" src="https://github.com/user-attachments/assets/422b48ee-19ef-4b16-9229-30453c016d67" />
+
 3. Tech Company Data
 
 - Displays job positions, departments, and workforce distribution.
 
 - Useful for analyzing employee trends and HR insights.
 
+  <img width="1304" height="536" alt="TECH" src="https://github.com/user-attachments/assets/6b708e8a-e1a0-4e4a-89ce-eaa55d228601" />
+
 4. Employee Data
 
 - Salary distribution across positions and departments.
 
 - Helps identify pay gaps and workforce structure.
+  
+<img width="376" height="549" alt="Salary For Department" src="https://github.com/user-attachments/assets/0e071f9b-378b-4bef-9e03-e2ab4760dd33" />
 
 # <img width="26" height="26" alt="image" src="https://github.com/user-attachments/assets/70b98ba1-fbee-46b4-864d-4447febb7cdc" /> Challenges
-
+- Working with large data/big data
+- Pick the right visualization
